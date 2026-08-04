@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T14:45:00+02:00",
+  "generatedAt": "2026-08-04T16:10:00+02:00",
   "status": "live",
   "markets": [
     {
@@ -13,20 +13,22 @@
       "hours": "07.00–14.00",
       "size": "Stor",
       "type": "Utomhus",
-      "score": 0,
-      "confidence": "Hög",
+      "score": 5,
+      "confidence": "Medel",
       "sellers": "Cirka 150 säljare en bra dag",
       "x": 87.0,
       "y": 72.2,
       "latitude": 55.5562,
       "longitude": 14.3506,
-      "note": "Etablerad sommarloppis mellan kyrkan och kyrkogården. Arrangören uppger omkring 1 500–2 000 besökare och cirka 150 säljare en bra dag. Korv, kaffe och dryck finns på plats.",
+      "note": "Etablerad sommarloppis mellan kyrkan och kyrkogården. Arrangören uppger omkring 1 500–2 000 besökare och cirka 150 säljare en bra dag. Facebook-sidan visar 100 % rekommendation från 10 recensioner; underlaget är positivt men litet.",
       "verified": "Verifierad 4 aug",
       "tags": ["Stor", "Klassisk loppis", "Fika"],
-      "contact": "070-434 05 17",
+      "contact": "070-434 05 17 · info@ifksimrishamn.se",
       "sources": [
         {"label": "Österlen.se", "url": "https://osterlen.se/sv/suckarnas-gang/"},
-        {"label": "Simrishamns kommun", "url": "https://www.simrishamn.se/gata-park-och-natur/offentlig-plats/loppis---suckarnas-gang"}
+        {"label": "Simrishamns kommun", "url": "https://www.simrishamn.se/gata-park-och-natur/offentlig-plats/loppis---suckarnas-gang"},
+        {"label": "Arrangörens webbplats", "url": "https://www.suckarnas.se/"},
+        {"label": "Facebook", "url": "https://www.facebook.com/profile.php?id=100063804310459"}
       ]
     },
     {
