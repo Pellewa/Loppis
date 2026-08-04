@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T16:10:00+02:00",
+  "generatedAt": "2026-08-04T16:45:00+02:00",
   "status": "live",
   "markets": [
     {
@@ -14,7 +14,7 @@
       "size": "Stor",
       "type": "Utomhus",
       "score": 5,
-      "confidence": "Medel",
+      "confidence": "Hög",
       "sellers": "Cirka 150 säljare en bra dag",
       "x": 87.0,
       "y": 72.2,
@@ -83,6 +83,105 @@
       "sources": [
         {"label": "Malmö stad", "url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Loppmarknader/Loppmarknad-pa-Drottningtorget.html"},
         {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Drottningtorget%20Malm%C3%B6"}
+      ]
+    },
+    {
+      "id": 4, "name": "Grindloppis i Jonstorp", "place": "Jonstorp", "region": "Nordväst", "distance": 0,
+      "day": "Söndag", "date": "9 aug", "hours": "11.00–15.00", "size": "Stor", "type": "Byloppis",
+      "score": 0, "confidence": "Hög", "sellers": "Cirka 50 adresser", "x": 0, "y": 0,
+      "latitude": 56.2292, "longitude": 12.6710,
+      "note": "Hela Jonstorp blir en loppisrunda med omkring 50 deltagande adresser. Karta publiceras i sociala medier och finns på Ica i byn samma dag.",
+      "verified": "Verifierad 4 aug", "tags": ["Byloppis", "Stor", "Familj"],
+      "contact": "Helena Stjernström · 070-530 00 82",
+      "sources": [
+        {"label": "Höganäs kommun", "url": "https://www.hoganas.se/arkiv/evenemang/evenemang/2026-06-22-grindloppis-i-jonstorp.html"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Jonstorp%20Sk%C3%A5ne"}
+      ]
+    },
+    {
+      "id": 5, "name": "Lions loppmarknad", "place": "Svarvaregatan 4, Svedala", "region": "Sydväst", "distance": 0,
+      "day": "Lördag", "date": "8 aug", "hours": "11.00–14.00", "size": "Mellan", "type": "Inomhus",
+      "score": 0, "confidence": "Hög", "sellers": "Föreningsloppis", "x": 0, "y": 0,
+      "latitude": 55.5070, "longitude": 13.2350,
+      "note": "Lions föreningsloppis med korv och dryck utomhus. Betalning med kontanter eller Swish; intäkterna går till Lions hjälparbete.",
+      "verified": "Verifierad 4 aug", "tags": ["Förening", "Välgörenhet", "Fika"],
+      "contact": "Aina Ljungström · 0708-81 65 61",
+      "sources": [
+        {"label": "Svedala kommun", "url": "https://www.svedala.se/uppleva/kalender/2026/juli/loppmarknad-lions-svedala/"},
+        {"label": "Lions Svedala", "url": "https://e-clubhouse.org/sites/svedala/"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Svarvaregatan%204%20Svedala"}
+      ]
+    },
+    {
+      "id": 6, "name": "Onslunda loppis", "place": "Pliggaregränd 1, Onslunda", "region": "Österlen", "distance": 0,
+      "day": "Lördag", "date": "8 aug", "hours": "11.00–tid saknas", "size": "Mellan", "type": "Återkommande",
+      "score": 0, "confidence": "Låg", "sellers": "Storlek saknas", "x": 0, "y": 0,
+      "latitude": 55.5980, "longitude": 14.0490,
+      "note": "Listad som återkommande lördags- och söndagsloppis. Kontrollera öppettiden med arrangören innan avfärd.",
+      "verified": "Återkommande – kontrollera", "tags": ["Återkommande", "Inomhus"], "contact": "Kontakt saknas",
+      "sources": [
+        {"label": "Svenska Loppisar", "url": "https://svenskaloppisar.se/sok.asp?kommun=0&lan=9"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Pliggaregr%C3%A4nd%201%20Onslunda"}
+      ]
+    },
+    {
+      "id": 7, "name": "Fixarfrökens FYND", "place": "Handelsgatan 3, Höör", "region": "Mittskåne", "distance": 0,
+      "day": "Lördag", "date": "8 aug", "hours": "09.00–tid saknas", "size": "Liten", "type": "Återkommande",
+      "score": 0, "confidence": "Låg", "sellers": "Fast verksamhet", "x": 0, "y": 0,
+      "latitude": 55.9340, "longitude": 13.5380,
+      "note": "Listad som återkommande lördagsöppen loppis. Sluttid saknas i kalendern och bör kontrolleras före besök.",
+      "verified": "Återkommande – kontrollera", "tags": ["Återkommande", "Butik"], "contact": "Se källan",
+      "sources": [
+        {"label": "Svenska Loppisar", "url": "https://svenskaloppisar.se/sok.asp?kommun=0&lan=9"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Handelsgatan%203%20H%C3%B6%C3%B6r"}
+      ]
+    },
+    {
+      "id": 8, "name": "2USE Second Hand", "place": "Karlsgatan 10, Kristianstad", "region": "Nordost", "distance": 0,
+      "day": "Lördag", "date": "8 aug", "hours": "10.00–tid saknas", "size": "Mellan", "type": "Second hand",
+      "score": 0, "confidence": "Låg", "sellers": "Fast verksamhet", "x": 0, "y": 0,
+      "latitude": 56.0300, "longitude": 14.1560,
+      "note": "Fast second hand-verksamhet som anges vara öppen på lördagar. Kontrollera aktuell sluttid före besök.",
+      "verified": "Återkommande – kontrollera", "tags": ["Second hand", "Butik", "Återkommande"], "contact": "Se källan",
+      "sources": [
+        {"label": "Svenska Loppisar", "url": "https://svenskaloppisar.se/sok.asp?kommun=0&lan=9"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Karlsgatan%2010%20Kristianstad"}
+      ]
+    },
+    {
+      "id": 9, "name": "Trollets loppis, antikt & dödsbo", "place": "Maskingatan 38, Trelleborg", "region": "Sydkusten", "distance": 0,
+      "day": "Lördag", "date": "8 aug", "hours": "11.00–tid saknas", "size": "Mellan", "type": "Inomhus",
+      "score": 0, "confidence": "Låg", "sellers": "Fast verksamhet", "x": 0, "y": 0,
+      "latitude": 55.3750, "longitude": 13.1600,
+      "note": "Listad som återkommande helgöppen loppis med antikt och dödsbon. Kalendern innehåller motstridiga gatunummer; kontrollera adressen före avfärd.",
+      "verified": "Återkommande – kontrollera", "tags": ["Antikt", "Dödsbo", "Återkommande"], "contact": "Se källan",
+      "sources": [
+        {"label": "Svenska Loppisar", "url": "https://svenskaloppisar.se/sok.asp?kommun=0&lan=9"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Maskingatan%2038%20Trelleborg"}
+      ]
+    },
+    {
+      "id": 10, "name": "MamaMarked", "place": "Hävertgatan 33, Helsingborg", "region": "Nordväst", "distance": 0,
+      "day": "Lördag", "date": "8 aug", "hours": "10.00–tid saknas", "size": "Mellan", "type": "Inomhus",
+      "score": 0, "confidence": "Låg", "sellers": "Fast verksamhet", "x": 0, "y": 0,
+      "latitude": 56.0460, "longitude": 12.6940,
+      "note": "Listad som återkommande helgöppen loppis/second hand. Kontrollera aktuell öppettid direkt med verksamheten.",
+      "verified": "Återkommande – kontrollera", "tags": ["Second hand", "Återkommande", "Butik"], "contact": "Se källan",
+      "sources": [
+        {"label": "Svenska Loppisar", "url": "https://svenskaloppisar.se/sok.asp?kommun=0&lan=9"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=H%C3%A4vertgatan%2033%20Helsingborg"}
+      ]
+    },
+    {
+      "id": 11, "name": "Modighus", "place": "Modighus 2561, Vankiva", "region": "Nordost", "distance": 0,
+      "day": "Söndag", "date": "9 aug", "hours": "11.00–tid saknas", "size": "Liten", "type": "Återkommande",
+      "score": 0, "confidence": "Låg", "sellers": "Fast verksamhet", "x": 0, "y": 0,
+      "latitude": 56.1950, "longitude": 13.7470,
+      "note": "Listad som återkommande söndagsöppen loppis. Sluttid och övriga detaljer saknas och bör kontrolleras före besök.",
+      "verified": "Återkommande – kontrollera", "tags": ["Återkommande", "Lantligt"], "contact": "Se källan",
+      "sources": [
+        {"label": "Svenska Loppisar", "url": "https://svenskaloppisar.se/sok.asp?kommun=0&lan=9"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Modighus%202561%20Vankiva"}
       ]
     }
   ]
