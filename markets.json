@@ -1,5 +1,81 @@
 {
-  "generatedAt": null,
-  "status": "demo",
-  "markets": []
+  "generatedAt": "2026-08-04T14:45:00+02:00",
+  "status": "live",
+  "markets": [
+    {
+      "id": 1,
+      "name": "Suckarnas gång",
+      "place": "Lilla Norregatan 17, Simrishamn",
+      "region": "Österlen",
+      "distance": 0,
+      "day": "Lördag",
+      "date": "8 aug",
+      "hours": "07.00–14.00",
+      "size": "Stor",
+      "type": "Utomhus",
+      "score": 0,
+      "confidence": "Hög",
+      "sellers": "Cirka 150 säljare en bra dag",
+      "x": 87.0,
+      "y": 72.2,
+      "note": "Etablerad sommarloppis mellan kyrkan och kyrkogården. Arrangören uppger omkring 1 500–2 000 besökare och cirka 150 säljare en bra dag. Korv, kaffe och dryck finns på plats.",
+      "verified": "Verifierad 4 aug",
+      "tags": ["Stor", "Klassisk loppis", "Fika"],
+      "contact": "070-434 05 17",
+      "sources": [
+        {"label": "Österlen.se", "url": "https://osterlen.se/sv/suckarnas-gang/"},
+        {"label": "Simrishamns kommun", "url": "https://www.simrishamn.se/gata-park-och-natur/offentlig-plats/loppis---suckarnas-gang"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Loppmarknad på Nya Torg",
+      "place": "Nya Torg, Hörby",
+      "region": "Mellersta Skåne",
+      "distance": 0,
+      "day": "Lördag",
+      "date": "8 aug",
+      "hours": "10.00–14.00",
+      "size": "Mellan",
+      "type": "Utomhus",
+      "score": 0,
+      "confidence": "Hög",
+      "sellers": "Antal säljare saknas",
+      "x": 57.0,
+      "y": 45.3,
+      "note": "Månatlig loppmarknad på Nya Torg, arrangerad av Hörby Köpmannaförening den andra lördagen i månaden.",
+      "verified": "Verifierad 4 aug",
+      "tags": ["Torgloppis", "Centralt"],
+      "contact": "Se arrangörens sida",
+      "sources": [
+        {"label": "Hörby kommun", "url": "https://www.horby.se/event/loppmarknad-pa-nya-torg-i-horby/?date=20260808100000"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Nya%20Torg%20H%C3%B6rby"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Loppmarknad på Drottningtorget",
+      "place": "Drottningtorget, Malmö",
+      "region": "Sydväst",
+      "distance": 0,
+      "day": "Söndag",
+      "date": "9 aug",
+      "hours": "09.00–15.00",
+      "size": "Stor",
+      "type": "Utomhus",
+      "score": 0,
+      "confidence": "Hög",
+      "sellers": "Antal säljare saknas",
+      "x": 28.6,
+      "y": 67.4,
+      "note": "Återkommande söndagsloppis med kläder, böcker, möbler och antikviteter. Torgvärdar och tillgänglig toalett finns under loppisdagen.",
+      "verified": "Verifierad 4 aug",
+      "tags": ["Centralt", "Möbler", "Antikt"],
+      "contact": "Malmö stad: 040-34 10 00",
+      "sources": [
+        {"label": "Malmö stad", "url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Loppmarknader/Loppmarknad-pa-Drottningtorget.html"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Drottningtorget%20Malm%C3%B6"}
+      ]
+    }
+  ]
 }
