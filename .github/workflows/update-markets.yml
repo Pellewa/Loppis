@@ -1,0 +1,40 @@
+name: Uppdatera loppmarknader
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 5 * * *"
+      timezone: "Europe/Stockholm"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Samla och granska loppmarknader
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5' }}
+          OUTPUT_PATH: markets.json
+        run: node scripts/collect-markets.mjs
+      - name: Publicera ny data
+        run: |
+          if git diff --quiet -- markets.json; then
+            echo "Ingen ny marknadsdata att publicera."
+            exit 0
+          fi
+          git config user.name "Loppisjakten-agenten"
+          git config user.email "actions@users.noreply.github.com"
+          git add markets.json
+          git commit -m "Uppdatera loppmarknader"
+          git push
