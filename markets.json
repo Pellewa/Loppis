@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T16:45:00+02:00",
+  "generatedAt": "2026-08-08T17:11:41+02:00",
   "status": "live",
   "markets": [
     {
@@ -21,7 +21,7 @@
       "latitude": 55.5562,
       "longitude": 14.3506,
       "note": "Etablerad sommarloppis mellan kyrkan och kyrkogården. Arrangören uppger omkring 1 500–2 000 besökare och cirka 150 säljare en bra dag. Facebook-sidan visar 100 % rekommendation från 10 recensioner; underlaget är positivt men litet.",
-      "verified": "Verifierad 4 aug",
+      "verified": "Verifierad 8 aug",
       "tags": ["Stor", "Klassisk loppis", "Fika"],
       "contact": "070-434 05 17 · info@ifksimrishamn.se",
       "sources": [
@@ -50,7 +50,7 @@
       "latitude": 55.8524,
       "longitude": 13.6612,
       "note": "Månatlig loppmarknad på Nya Torg, arrangerad av Hörby Köpmannaförening den andra lördagen i månaden.",
-      "verified": "Verifierad 4 aug",
+      "verified": "Verifierad 8 aug",
       "tags": ["Torgloppis", "Centralt"],
       "contact": "Se arrangörens sida",
       "sources": [
@@ -77,7 +77,7 @@
       "latitude": 55.6082,
       "longitude": 13.0074,
       "note": "Återkommande söndagsloppis med kläder, böcker, möbler och antikviteter. Torgvärdar och tillgänglig toalett finns under loppisdagen.",
-      "verified": "Verifierad 4 aug",
+      "verified": "Verifierad 8 aug",
       "tags": ["Centralt", "Möbler", "Antikt"],
       "contact": "Malmö stad: 040-34 10 00",
       "sources": [
@@ -91,7 +91,7 @@
       "score": 0, "confidence": "Hög", "sellers": "Cirka 50 adresser", "x": 0, "y": 0,
       "latitude": 56.2292, "longitude": 12.6710,
       "note": "Hela Jonstorp blir en loppisrunda med omkring 50 deltagande adresser. Karta publiceras i sociala medier och finns på Ica i byn samma dag.",
-      "verified": "Verifierad 4 aug", "tags": ["Byloppis", "Stor", "Familj"],
+      "verified": "Verifierad 8 aug", "tags": ["Byloppis", "Stor", "Familj"],
       "contact": "Helena Stjernström · 070-530 00 82",
       "sources": [
         {"label": "Höganäs kommun", "url": "https://www.hoganas.se/arkiv/evenemang/evenemang/2026-06-22-grindloppis-i-jonstorp.html"},
@@ -104,7 +104,7 @@
       "score": 0, "confidence": "Hög", "sellers": "Föreningsloppis", "x": 0, "y": 0,
       "latitude": 55.5070, "longitude": 13.2350,
       "note": "Lions föreningsloppis med korv och dryck utomhus. Betalning med kontanter eller Swish; intäkterna går till Lions hjälparbete.",
-      "verified": "Verifierad 4 aug", "tags": ["Förening", "Välgörenhet", "Fika"],
+      "verified": "Verifierad 8 aug", "tags": ["Förening", "Välgörenhet", "Fika"],
       "contact": "Aina Ljungström · 0708-81 65 61",
       "sources": [
         {"label": "Svedala kommun", "url": "https://www.svedala.se/uppleva/kalender/2026/juli/loppmarknad-lions-svedala/"},
@@ -182,6 +182,20 @@
       "sources": [
         {"label": "Svenska Loppisar", "url": "https://svenskaloppisar.se/sok.asp?kommun=0&lan=9"},
         {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Modighus%202561%20Vankiva"}
+      ]
+    },
+    {
+      "id": 12, "name": "Loppis i Stallet", "place": "Mejeriet, Stora Södergatan 64, Lund", "region": "Sydväst", "distance": 0,
+      "day": "Lördag", "date": "8 aug", "hours": "17.00–sluttid saknas", "size": "Mellan", "type": "Inomhus",
+      "score": 0, "confidence": "Hög", "sellers": "Bordsloppis", "x": 0, "y": 0,
+      "latitude": 55.6969, "longitude": 13.1917,
+      "note": "Kvällsloppis på Mejeriet med prylar och vintage. Gratis för besökare; säljare kan hyra bord. Sluttid anges inte i evenemangsinformationen.",
+      "verified": "Verifierad 8 aug", "tags": ["Kvällsloppis", "Vintage", "Gratis entré"],
+      "contact": "Arrangör: Mejeriet",
+      "sources": [
+        {"label": "Tickster", "url": "https://www.tickster.com/se/sv/events/ucchrph0729mpd3/2026-08-08/loppis-i-stallet"},
+        {"label": "Mejeriet", "url": "https://www.kulturmejeriet.se/"},
+        {"label": "Platsdata", "url": "https://www.openstreetmap.org/search?query=Mejeriet%20Lund"}
       ]
     }
   ]
