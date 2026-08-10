@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T12:23:32+02:00",
+  "generatedAt": "2026-08-10T14:10:00+02:00",
   "status": "live",
   "markets": [
     {
@@ -129,6 +129,86 @@
       "note": "Lantlig gårdsloppis i Traneboda. Kataloguppgiften saknar tydlig arrangörskontakt och bör dubbelkollas.",
       "verified": "Kalenderuppgift – kontrollera", "tags": ["Liten", "Gård", "Lantligt"], "contact": "Kontakt saknas",
       "sources": [{"label":"Loppisar.com","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=alla&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Traneboda%20Osby"}]
+    },
+    {
+      "id": 17, "name": "Lillaloppisen Tyringe", "place": "Tyringe", "region": "Nordost", "distance": 0,
+      "day": "Lördag", "date": "15 aug", "hours": "11.00–15.00", "size": "Liten", "type": "Säsongsloppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre lokal loppis", "x": 0, "y": 0, "latitude": 56.1600, "longitude": 13.6000,
+      "note": "Listad som återkommande lördags- och söndagsloppis tills vidare. Kontrollera öppettiden före en längre resa.",
+      "verified": "Säsongsuppgift – kontrollera", "tags": ["Liten", "Lokal", "Återkommande"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com","url":"https://www.loppisar.com/"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Tyringe%20Sk%C3%A5ne"}]
+    },
+    {
+      "id": 18, "name": "Kuriosafarmen", "place": "Nyåkra 6836, Hörby", "region": "Mellersta Skåne", "distance": 0,
+      "day": "Söndag", "date": "16 aug", "hours": "11.00–15.00", "size": "Liten", "type": "Gårdsloppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre lantlig loppis", "x": 0, "y": 0, "latitude": 55.8500, "longitude": 13.6600,
+      "note": "Säsongsloppis på landsbygden utanför Hörby. Kalenderuppgiften bör bekräftas före besök.",
+      "verified": "Säsongsuppgift – kontrollera", "tags": ["Liten", "Kuriosa", "Lantligt"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com Hörby","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=115&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Ny%C3%A5kra%206836%20H%C3%B6rby"}]
+    },
+    {
+      "id": 19, "name": "Präriestugans Retromix", "place": "Brantastigsvägen 12, Billesholm", "region": "Nordväst", "distance": 0,
+      "day": "Söndag", "date": "16 aug", "hours": "13.30–17.00", "size": "Liten", "type": "Retro-loppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre lokal verksamhet", "x": 0, "y": 0, "latitude": 56.0550, "longitude": 12.9770,
+      "note": "Mindre säsongsloppis med retroinriktning i Billesholm. Kontrollera att söndagsöppettiden gäller denna helg.",
+      "verified": "Säsongsuppgift – kontrollera", "tags": ["Liten", "Retro", "Kuriosa"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com Bjuv","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=109&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Brantastigsv%C3%A4gen%2012%20Billesholm"}]
+    },
+    {
+      "id": 20, "name": "Billesholms Loppis", "place": "Böketoftavägen 87, Billesholm", "region": "Nordväst", "distance": 0,
+      "day": "Söndag", "date": "16 aug", "hours": "10.00–14.00", "size": "Liten", "type": "Lokal loppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre lokal loppis", "x": 0, "y": 0, "latitude": 56.0600, "longitude": 12.9850,
+      "note": "Återkommande lokal loppis i Billesholm. Öppettiden bygger på säsongskalender och bör dubbelkollas.",
+      "verified": "Säsongsuppgift – kontrollera", "tags": ["Liten", "Lokal", "Återkommande"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com Bjuv","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=109&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=B%C3%B6ketoftav%C3%A4gen%2087%20Billesholm"}]
+    },
+    {
+      "id": 21, "name": "MT Loppis Bjuv", "place": "Sellebergavägen 24, Bjuv", "region": "Nordväst", "distance": 0,
+      "day": "Söndag", "date": "16 aug", "hours": "10.00–15.00", "size": "Liten", "type": "Lokal loppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre lokal verksamhet", "x": 0, "y": 0, "latitude": 56.0830, "longitude": 12.9200,
+      "note": "Lokal säsongsloppis i Bjuv. Kontrollera aktuell öppettid direkt innan avfärd.",
+      "verified": "Säsongsuppgift – kontrollera", "tags": ["Liten", "Lokal", "Inomhus"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com Bjuv","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=109&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Sellebergav%C3%A4gen%2024%20Bjuv"}]
+    },
+    {
+      "id": 22, "name": "Loppisen på Hörnan", "place": "Karlsgatan 27, Teckomatorp", "region": "Mellersta Skåne", "distance": 0,
+      "day": "Söndag", "date": "16 aug", "hours": "11.00–16.00", "size": "Liten", "type": "Lokal loppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre lokal loppis", "x": 0, "y": 0, "latitude": 55.8660, "longitude": 13.0830,
+      "note": "Mindre loppis i Teckomatorp som hittades i den kommunvisa säsongskalendern. Kontrollera före besök.",
+      "verified": "Säsongsuppgift – kontrollera", "tags": ["Liten", "Lokal", "Teckomatorp"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=alla&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Karlsgatan%2027%20Teckomatorp"}]
+    },
+    {
+      "id": 23, "name": "Svalövskattens loppis", "place": "Munkagårda, Svalöv", "region": "Mellersta Skåne", "distance": 0,
+      "day": "Söndag", "date": "16 aug", "hours": "11.00–15.00", "size": "Liten", "type": "Gårdsloppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre lantlig loppis", "x": 0, "y": 0, "latitude": 55.9100, "longitude": 13.1100,
+      "note": "Lantlig loppis vid Munkagårda. Kalendern anger skyltning från väg 106; kontrollera att den är öppen denna söndag.",
+      "verified": "Säsongsuppgift – kontrollera", "tags": ["Liten", "Gård", "Lantligt"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=alla&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Munkag%C3%A5rda%20Sval%C3%B6v"}]
+    },
+    {
+      "id": 24, "name": "Träffpunkten Hyllstofta", "place": "Hyllstofta, Klippans kommun", "region": "Nordväst", "distance": 0,
+      "day": "Söndag", "date": "16 aug", "hours": "11.00–16.00", "size": "Liten", "type": "Lokal loppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre byaloppis", "x": 0, "y": 0, "latitude": 56.1060, "longitude": 13.2660,
+      "note": "Mindre loppis i samhället Hyllstofta utanför Klippan. Exakt adress och arrangörskontakt saknas.",
+      "verified": "Osäker – kontrollera", "tags": ["Liten", "By", "Lantligt"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=alla&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Hyllstofta%20Klippan"}]
+    },
+    {
+      "id": 25, "name": "Kerstins Pinaler", "place": "Skaddevägen 288, Vittskövle", "region": "Nordost", "distance": 0,
+      "day": "Söndag", "date": "16 aug", "hours": "11.00–17.00", "size": "Liten", "type": "Gårdsloppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre lantlig loppis", "x": 0, "y": 0, "latitude": 55.8600, "longitude": 14.1400,
+      "note": "Liten lantlig loppis nära Vittskövle. Uppgiften kommer från säsongskalendern och bör kontrolleras.",
+      "verified": "Säsongsuppgift – kontrollera", "tags": ["Liten", "Gård", "Kuriosa"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=alla&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Skaddev%C3%A4gen%20288%20Vittsk%C3%B6vle"}]
+    },
+    {
+      "id": 26, "name": "Österslövs IS loppis", "place": "Arkelstorpsvägen 146, Kristianstad", "region": "Nordost", "distance": 0,
+      "day": "Söndag", "date": "16 aug", "hours": "10.00–12.00", "size": "Liten", "type": "Föreningsloppis", "score": 0, "confidence": "Låg",
+      "sellers": "Mindre föreningsloppis", "x": 0, "y": 0, "latitude": 56.1000, "longitude": 14.1800,
+      "note": "Kort söndagsöppen föreningsloppis. Kontrollera aktuell öppettid med föreningen före avfärd.",
+      "verified": "Säsongsuppgift – kontrollera", "tags": ["Liten", "Förening", "Kort öppettid"], "contact": "Kontakt saknas",
+      "sources": [{"label":"Loppisar.com","url":"https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=alla&slanID=11&snamn=&srange=framat&srangetime=6"},{"label":"Platsdata","url":"https://www.openstreetmap.org/search?query=Arkelstorpsv%C3%A4gen%20146%20Kristianstad"}]
     }
   ]
 }
