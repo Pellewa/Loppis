@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:34:00+02:00",
+  "generatedAt": "2026-09-06T10:45:15+02:00",
   "status": "live",
   "markets": [
     {
@@ -517,6 +517,116 @@
         {
           "label": "Loppiskoll",
           "url": "https://www.loppiskoll.se/loppis/malmo/helgen/"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Brönnestads kuriosa och gårdsloppis",
+      "place": "Brönnestadsvägen 258, Klagstorp",
+      "region": "Sydkusten",
+      "distance": 0,
+      "day": "Söndag",
+      "date": "6 sep",
+      "hours": "11.00–15.00",
+      "size": "Liten",
+      "type": "Utomhus",
+      "score": 4.1,
+      "confidence": "Medel",
+      "sellers": "Mindre gårdsloppis i Trelleborgs kommun",
+      "x": 0,
+      "y": 0,
+      "latitude": 55.41522,
+      "longitude": 13.36685,
+      "note": "Mindre gårdsloppis med kuriosa, vintage, kläder, böcker samt häst- och hundsaker. Återkommande söndagsöppet enligt källan; uppgiften är inte arrangörsverifierad.",
+      "verified": "Kontrollerad idag",
+      "tags": [
+        "Gårdsloppis",
+        "Småskaligt",
+        "Vintage",
+        "Kuriosa"
+      ],
+      "contact": "070-950 81 30",
+      "sources": [
+        {
+          "label": "Loppiskartan",
+          "url": "https://loppiskartan.se/markets/bronnestads-kuriosa-och-gardsloppis"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Solviksgården",
+      "place": "Ingelstadsvägen 12, Västra Ingelstad",
+      "region": "Sydväst",
+      "distance": 0,
+      "day": "Söndag",
+      "date": "6 sep",
+      "hours": "11.00–16.00",
+      "size": "Liten",
+      "type": "Inomhus",
+      "score": 4.2,
+      "confidence": "Medel",
+      "sellers": "Mindre loppis i Vellinge kommun",
+      "x": 0,
+      "y": 0,
+      "latitude": 55.49357,
+      "longitude": 13.11783,
+      "note": "Lantlig loppis med retrofynd, återbruk, vintage och fika. Uppges ha sommaröppet varje söndag; källan är inte arrangörsverifierad.",
+      "verified": "Kontrollerad idag",
+      "tags": [
+        "Småskaligt",
+        "Retro",
+        "Vintage",
+        "Fika"
+      ],
+      "contact": "Via loppisens Instagram",
+      "sources": [
+        {
+          "label": "Loppiskartan",
+          "url": "https://loppiskartan.se/markets/solviksgarden"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Återbrukets hus",
+      "place": "Verkstadsgatan 4, Svedala",
+      "region": "Sydväst",
+      "distance": 0,
+      "day": "Söndag",
+      "date": "6 sep",
+      "hours": "11.00–15.00",
+      "size": "Stor",
+      "type": "Inomhus",
+      "score": 4.3,
+      "confidence": "Medel",
+      "sellers": "Cirka 500 m² secondhand och loppis",
+      "x": 0,
+      "y": 0,
+      "latitude": 55.516033,
+      "longitude": 13.240554,
+      "note": "Cirka 500 m² med stor textilavdelning och en möbelhall på cirka 250 m². Källorna anger olika söndagstider, 11–15 respektive 12–16; ring gärna före avfärd.",
+      "verified": "Kontrollerad idag",
+      "tags": [
+        "Inomhus",
+        "Möbler",
+        "Textil",
+        "Återbruk"
+      ],
+      "contact": "073-650 41 91",
+      "sources": [
+        {
+          "label": "Loppiskartan",
+          "url": "https://loppiskartan.se/markets/aterbrukets-hus"
+        },
+        {
+          "label": "Cylex",
+          "url": "https://svedala.cylex.se/company/%C3%A5terbrukets%2Bhus-12341879.html"
+        },
+        {
+          "label": "Loppisletarn",
+          "url": "https://www.loppisletarn.se/locations/268?locale=sv"
         }
       ]
     },
