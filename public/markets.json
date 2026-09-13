@@ -1,1197 +1,495 @@
 {
-  "generatedAt": "2026-09-06T10:45:15+02:00",
+  "generatedAt": "2026-09-13T10:29:27+02:00",
   "status": "live",
+  "scope": {
+    "municipalities": ["Trelleborg", "Svedala", "Vellinge"],
+    "from": "2026-09-13",
+    "through": "2026-09-20",
+    "note": "Riktad kontroll av idag och nästa helg."
+  },
   "markets": [
     {
-      "id": 101,
-      "name": "Flyinge Loppis",
-      "place": "Fredricson Arena, Flyinge",
-      "region": "Mellersta Skåne",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "08.30–14.00",
-      "size": "Stor",
-      "type": "Utomhus",
-      "score": 4.5,
-      "confidence": "Hög",
-      "sellers": "Stor bakluckeloppis med gott om plats",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.7507,
-      "longitude": 13.3694,
-      "note": "Öppet idag trots att lördagen ställdes in på grund av vädret. Gratis inträde och parkering, fika, toaletter och drop-in för säljare till klockan 11.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Baklucka",
-        "Fri entré",
-        "Fika",
-        "Barnvänligt"
-      ],
-      "contact": "info@flyingeloppis.se",
-      "sources": [
-        {
-          "label": "Arrangörens webbplats",
-          "url": "https://flyingeloppis.se/"
-        }
-      ]
-    },
-    {
-      "id": 102,
-      "name": "Näsby Megaloppis",
-      "place": "Gamlegårdsparken, Kristianstad",
-      "region": "Nordost",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "11.00–15.00",
-      "size": "Stor",
-      "type": "Utomhus",
-      "score": 4.4,
-      "confidence": "Hög",
-      "sellers": "Megaloppis med många säljare",
-      "x": 0,
-      "y": 0,
-      "latitude": 56.0537,
-      "longitude": 14.1597,
-      "note": "Stor lokal loppis i Gamlegårdsparken med många säljare och brett privat utbud.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Megaloppis",
-        "Många säljare",
-        "Familj"
-      ],
-      "contact": "Via arrangörens sida",
-      "sources": [
-        {
-          "label": "Bakluckeloppis i Skåne",
-          "url": "https://bakluckeloppisiskane.se/evenemang/"
-        }
-      ]
-    },
-    {
-      "id": 103,
-      "name": "Spritans Bakluckeloppis",
-      "place": "Spritfabriken, Ödåkra",
-      "region": "Nordväst",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "11.00–14.00",
-      "size": "Mellan",
-      "type": "Utomhus",
-      "score": 4.3,
-      "confidence": "Hög",
-      "sellers": "Återkommande bakluckeloppis",
-      "x": 0,
-      "y": 0,
-      "latitude": 56.1046,
-      "longitude": 12.7518,
-      "note": "Bakluckeloppis vid den gamla spritfabriken. Drop-in för säljare kan finnas i mån av plats.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Baklucka",
-        "Återkommande",
-        "Fynd"
-      ],
-      "contact": "Via arrangörens webbplats",
-      "sources": [
-        {
-          "label": "Bakluckeloppis i Skåne",
-          "url": "https://bakluckeloppisiskane.se/evenemang/"
-        }
-      ]
-    },
-    {
-      "id": 104,
-      "name": "Drottningtorgets loppmarknad",
-      "place": "Drottningtorget, Malmö",
-      "region": "Sydväst",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "09.00–15.00",
-      "size": "Stor",
-      "type": "Utomhus",
-      "score": 4.6,
-      "confidence": "Hög",
-      "sellers": "Stor kommunal söndagsmarknad",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.6082,
-      "longitude": 13.0074,
-      "note": "Malmös stora söndagsloppmarknad med begagnat, vintage, antikt och kuriosa. Centralt läge gör den lätt att hinna till.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Centralt",
-        "Vintage",
-        "Antikt",
-        "Kuriosa"
-      ],
-      "contact": "Malmö stad",
-      "sources": [
-        {
-          "label": "Loppiskoll",
-          "url": "https://www.loppiskoll.se/loppis/malmo/helgen/"
-        },
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-i-helgen/skane"
-        }
-      ]
-    },
-    {
-      "id": 105,
-      "name": "Bakluckeloppis Lund S",
-      "place": "Knästorps kvarnväg 287-16, Staffanstorp",
-      "region": "Sydväst",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "07.30–14.00",
-      "size": "Mellan",
-      "type": "Utomhus",
-      "score": 4.3,
-      "confidence": "Hög",
-      "sellers": "Återkommande bakluckeloppis",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.6658,
-      "longitude": 13.2058,
-      "note": "Bakluckeloppis strax söder om Lund. Ingen förbokning krävs för säljare; kontrollera vädret före avfärd.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Baklucka",
-        "Fri entré",
-        "Återkommande"
-      ],
-      "contact": "Via arrangörens webbplats",
-      "sources": [
-        {
-          "label": "Arrangörens webbplats",
-          "url": "https://www.bakluckeloppisilund.se/"
-        },
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-i-helgen/skane"
-        }
-      ]
-    },
-    {
-      "id": 106,
-      "name": "Svartedagen med loppis",
-      "place": "Svarteskolan, Svarte",
-      "region": "Sydkusten",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "10.00–13.00",
-      "size": "Mellan",
-      "type": "Utomhus",
-      "score": 4.3,
-      "confidence": "Hög",
-      "sellers": "Byaloppis och marknad",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.4299,
-      "longitude": 13.7158,
-      "note": "Byfest med loppis, marknad, familjeaktiviteter, korv och fika. Stänger tidigt, så åk direkt om du vill hinna.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Byaloppis",
-        "Familj",
-        "Fika",
-        "Marknad"
-      ],
-      "contact": "Via Svarte byalag",
-      "sources": [
-        {
-          "label": "Somo",
-          "url": "https://somo.social/sv/e/svartedagen-med-loppis-marknad-familjeaktiviteter-6-september-2026"
-        }
-      ]
-    },
-    {
-      "id": 107,
-      "name": "Loppan",
-      "place": "Bogeslundsvägen 2, Kävlinge",
-      "region": "Sydväst",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "11.00–15.00",
-      "size": "Liten",
-      "type": "Inomhus",
-      "score": 4,
-      "confidence": "Medel",
-      "sellers": "Mindre säsongsloppis",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.7927,
-      "longitude": 13.1058,
-      "note": "Mindre säsongsloppis i Kävlinge med söndagsöppet. Bra alternativ om du vill undvika de största marknaderna.",
-      "verified": "Kontrollerad idag",
-      "tags": [
-        "Småskaligt",
-        "Inomhus",
-        "Lokalt"
-      ],
-      "contact": "Kontakt saknas",
-      "sources": [
-        {
-          "label": "Loppisar.com",
-          "url": "https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=110&slanID=11&snamn=&srange=framat&srangetime=6"
-        }
-      ]
-    },
-    {
-      "id": 108,
-      "name": "Butiksloppis Löddeköpinge Center Syd",
-      "place": "Varuvägen 2, Löddeköpinge",
-      "region": "Sydväst",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "10.00–16.00",
-      "size": "Mellan",
-      "type": "Inomhus",
-      "score": 4,
-      "confidence": "Medel",
-      "sellers": "Butiksloppis med flera timmar kvar",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.7686,
-      "longitude": 13.1046,
-      "note": "Inomhusalternativ vid Center Syd som håller öppet till 16. Passar bra om vädret är osäkert.",
-      "verified": "Kontrollerad idag",
-      "tags": [
-        "Inomhus",
-        "Butiksloppis",
-        "Parkering"
-      ],
-      "contact": "Kontakt saknas",
-      "sources": [
-        {
-          "label": "Loppisar.com",
-          "url": "https://www.loppisar.com/sokning.html?do_search=1&do_search=S%C3%B6k+nu%21&sdatum=&skommunID=110&slanID=11&snamn=&srange=framat&srangetime=6"
-        }
-      ]
-    },
-    {
-      "id": 109,
-      "name": "Emmpatus Fredriksdal Ask",
-      "place": "Fredriksdal, Svalövs kommun",
-      "region": "Mellersta Skåne",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "12.00–16.00",
-      "size": "Liten",
-      "type": "Inomhus",
-      "score": 4.1,
-      "confidence": "Hög",
-      "sellers": "Mindre permanent secondhand",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.966,
-      "longitude": 13.114,
-      "note": "Mindre secondhand som öppnar först klockan 12 och därför passar bra senare under dagen.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Småskaligt",
-        "Second hand",
-        "Inomhus"
-      ],
-      "contact": "Via arrangörens sida",
-      "sources": [
-        {
-          "label": "Loppiskoll",
-          "url": "https://www.loppiskoll.se/loppis/svalov/"
-        }
-      ]
-    },
-    {
-      "id": 110,
-      "name": "Loppiskällaren Finja",
-      "place": "Saxabäcksvägen 1, Finja",
-      "region": "Nordost",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "13.00–16.00",
-      "size": "Liten",
-      "type": "Inomhus",
-      "score": 4.1,
-      "confidence": "Medel",
-      "sellers": "Mindre källarloppis",
-      "x": 0,
-      "y": 0,
-      "latitude": 56.159,
-      "longitude": 13.69,
-      "note": "Mindre lokal källarloppis som öppnar klockan 13. Kontrollera gärna källan före den längre resan.",
-      "verified": "Kontrollerad idag",
-      "tags": [
-        "Småskaligt",
-        "Inomhus",
-        "Lokalt"
-      ],
-      "contact": "Kontakt saknas",
-      "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-i-helgen/skane"
-        }
-      ]
-    },
-    {
-      "id": 111,
-      "name": "Skattgömman",
-      "place": "Bankvägen 16, Strövelstorp",
-      "region": "Nordväst",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "13.00–16.00",
-      "size": "Liten",
-      "type": "Inomhus",
-      "score": 4.1,
-      "confidence": "Medel",
-      "sellers": "Mindre lokal loppis",
-      "x": 0,
-      "y": 0,
-      "latitude": 56.168,
-      "longitude": 12.84,
-      "note": "Blandning av nytt och gammalt, bland annat trädgårdsprylar och inredning. Öppnar klockan 13.",
-      "verified": "Kontrollerad idag",
-      "tags": [
-        "Småskaligt",
-        "Inomhus",
-        "Inredning"
-      ],
-      "contact": "www.skattgomman.se",
-      "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-i-helgen/skane"
-        },
-        {
-          "label": "Skattgömman",
-          "url": "https://www.skattgomman.se"
-        }
-      ]
-    },
-    {
-      "id": 112,
-      "name": "Loppis under seglet",
-      "place": "Borrbyvägen 15, Skillinge",
-      "region": "Österlen",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "14.00–17.00",
-      "size": "Liten",
-      "type": "Utomhus",
-      "score": 4.2,
-      "confidence": "Medel",
-      "sellers": "Mindre trädgårdsloppis",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.474,
-      "longitude": 14.281,
-      "note": "Sommarloppis under segel i trädgården hos Anna Agger Design. Dagens senaste öppningstid gör den möjlig som eftermiddagstur.",
-      "verified": "Kontrollerad idag",
-      "tags": [
-        "Småskaligt",
-        "Design",
-        "Trädgård",
-        "Österlen"
-      ],
-      "contact": "Via källsidan",
-      "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-i-helgen/skane"
-        }
-      ]
-    },
-    {
-      "id": 113,
-      "name": "Arkivet Second Hand",
-      "place": "Södergatan 28, Malmö",
-      "region": "Sydväst",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "11.00–17.00",
-      "size": "Mellan",
-      "type": "Inomhus",
-      "score": 4.5,
-      "confidence": "Hög",
-      "sellers": "Kurerad secondhand på kommission",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.6057,
-      "longitude": 13.0018,
-      "note": "Kurerad secondhand för kläder, skor, väskor och accessoarer. Ett centralt alternativ som håller öppet till 17.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Kläder",
-        "Kurerat",
-        "Centralt",
-        "Inomhus"
-      ],
-      "contact": "Via butikens webbplats",
-      "sources": [
-        {
-          "label": "Loppiskoll",
-          "url": "https://www.loppiskoll.se/loppis/malmo/helgen/"
-        }
-      ]
-    },
-    {
-      "id": 114,
-      "name": "Humana Second Hand Malmö",
-      "place": "Möllevången, Malmö",
-      "region": "Sydväst",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "12.00–17.00",
-      "size": "Mellan",
-      "type": "Inomhus",
-      "score": 4.3,
-      "confidence": "Hög",
-      "sellers": "Secondhandbutik med kläder och prylar",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.5929,
-      "longitude": 13.0083,
-      "note": "Centralt secondhandalternativ som öppnar klockan 12 och håller öppet till 17.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Kläder",
-        "Second hand",
-        "Centralt",
-        "Inomhus"
-      ],
-      "contact": "Via Humana",
-      "sources": [
-        {
-          "label": "Loppiskoll",
-          "url": "https://www.loppiskoll.se/loppis/malmo/helgen/"
-        },
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-i-helgen/skane"
-        }
-      ]
-    },
-    {
-      "id": 115,
-      "name": "Myrorna Malmö Ystadvägen",
-      "place": "Ystadvägen, Malmö",
-      "region": "Sydväst",
-      "distance": 0,
-      "day": "Söndag",
-      "date": "6 sep",
-      "hours": "12.00–16.00",
-      "size": "Mellan",
-      "type": "Inomhus",
-      "score": 4.2,
-      "confidence": "Hög",
-      "sellers": "Stor secondhandbutik",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.5806,
-      "longitude": 13.0117,
-      "note": "Inomhusbutik med kläder, husgeråd och blandade secondhandfynd. Öppnar klockan 12.",
-      "verified": "Verifierad idag",
-      "tags": [
-        "Second hand",
-        "Inomhus",
-        "Kläder",
-        "Husgeråd"
-      ],
-      "contact": "Via Myrorna",
-      "sources": [
-        {
-          "label": "Loppiskoll",
-          "url": "https://www.loppiskoll.se/loppis/malmo/helgen/"
-        }
-      ]
-    },
-    {
-      "id": 116,
+      "id": 1,
       "name": "Brönnestads kuriosa och gårdsloppis",
-      "place": "Brönnestadsvägen 258, Klagstorp",
-      "region": "Sydkusten",
+      "place": "Brönnestadsvägen 258, Klagstorp · Trelleborgs kommun",
+      "region": "Trelleborg",
       "distance": 0,
       "day": "Söndag",
-      "date": "6 sep",
+      "date": "13 sep",
       "hours": "11.00–15.00",
       "size": "Liten",
-      "type": "Utomhus",
+      "type": "Gårdsloppis",
       "score": 4.1,
       "confidence": "Medel",
-      "sellers": "Mindre gårdsloppis i Trelleborgs kommun",
+      "sellers": "Mindre återkommande gårdsloppis",
       "x": 0,
       "y": 0,
       "latitude": 55.41522,
       "longitude": 13.36685,
-      "note": "Mindre gårdsloppis med kuriosa, vintage, kläder, böcker samt häst- och hundsaker. Återkommande söndagsöppet enligt källan; uppgiften är inte arrangörsverifierad.",
-      "verified": "Kontrollerad idag",
-      "tags": [
-        "Gårdsloppis",
-        "Småskaligt",
-        "Vintage",
-        "Kuriosa"
-      ],
+      "note": "Kuriosa, vintage, kläder, böcker samt häst- och hundsaker. Söndagsöppet enligt publicerat veckoschema, men uppgiften är inte arrangörsverifierad.",
+      "verified": "Kontrollerad 13 sep",
+      "tags": ["Småskaligt", "Vintage", "Kuriosa", "Gård"],
       "contact": "070-950 81 30",
-      "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/markets/bronnestads-kuriosa-och-gardsloppis"
-        }
-      ]
+      "sources": [{"label": "Loppiskartan", "url": "https://loppiskartan.se/markets/bronnestads-kuriosa-och-gardsloppis"}]
     },
     {
-      "id": 117,
-      "name": "Solviksgården",
-      "place": "Ingelstadsvägen 12, Västra Ingelstad",
-      "region": "Sydväst",
+      "id": 2,
+      "name": "Svedala Loppis & Secondhand",
+      "place": "Svarvaregatan 8, Svedala · Svedala kommun",
+      "region": "Svedala",
       "distance": 0,
       "day": "Söndag",
-      "date": "6 sep",
-      "hours": "11.00–16.00",
-      "size": "Liten",
+      "date": "13 sep",
+      "hours": "11.00–15.00",
+      "size": "Stor",
       "type": "Inomhus",
-      "score": 4.2,
-      "confidence": "Medel",
-      "sellers": "Mindre loppis i Vellinge kommun",
+      "score": 4.5,
+      "confidence": "Hög",
+      "sellers": "Cirka 1 500 m² loppis och secondhand",
       "x": 0,
       "y": 0,
-      "latitude": 55.49357,
-      "longitude": 13.11783,
-      "note": "Lantlig loppis med retrofynd, återbruk, vintage och fika. Uppges ha sommaröppet varje söndag; källan är inte arrangörsverifierad.",
-      "verified": "Kontrollerad idag",
-      "tags": [
-        "Småskaligt",
-        "Retro",
-        "Vintage",
-        "Fika"
-      ],
-      "contact": "Via loppisens Instagram",
+      "latitude": 55.5131052,
+      "longitude": 13.2562114,
+      "note": "Stor inomhusloppis med kläder, böcker, leksaker, tyger, LP-skivor, porslin och inredning. Fri parkering och tillfälligt café uppges finnas.",
+      "verified": "Verifierad 13 sep",
+      "tags": ["Stor hall", "Kläder", "Barn", "Porslin"],
+      "contact": "Via Svedala Loppis på Facebook eller Instagram",
       "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/markets/solviksgarden"
-        }
+        {"label": "Loppos", "url": "https://loppos.com/sv/sverige/skane/svedala/svedala-loppis"},
+        {"label": "Publika inlägg", "url": "https://www.findglocal.com/SE/Svedala/257103634702413/Svedala-Loppis"}
       ]
     },
     {
-      "id": 118,
+      "id": 3,
       "name": "Återbrukets hus",
-      "place": "Verkstadsgatan 4, Svedala",
-      "region": "Sydväst",
+      "place": "Verkstadsgatan 4, Svedala · Svedala kommun",
+      "region": "Svedala",
       "distance": 0,
       "day": "Söndag",
-      "date": "6 sep",
+      "date": "13 sep",
       "hours": "11.00–15.00",
       "size": "Stor",
       "type": "Inomhus",
       "score": 4.3,
       "confidence": "Medel",
-      "sellers": "Cirka 500 m² secondhand och loppis",
+      "sellers": "Cirka 500 m², varav cirka 250 m² möbelhall",
       "x": 0,
       "y": 0,
       "latitude": 55.516033,
       "longitude": 13.240554,
-      "note": "Cirka 500 m² med stor textilavdelning och en möbelhall på cirka 250 m². Källorna anger olika söndagstider, 11–15 respektive 12–16; ring gärna före avfärd.",
-      "verified": "Kontrollerad idag",
-      "tags": [
-        "Inomhus",
-        "Möbler",
-        "Textil",
-        "Återbruk"
-      ],
+      "note": "Brett återbruk med stor textilavdelning och möbelhall. Två källor anger 11–15 medan en anger 12–16; ring gärna före avfärd.",
+      "verified": "Kontrollerad 13 sep",
+      "tags": ["Möbler", "Textil", "Återbruk", "Inomhus"],
       "contact": "073-650 41 91",
       "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/markets/aterbrukets-hus"
-        },
-        {
-          "label": "Cylex",
-          "url": "https://svedala.cylex.se/company/%C3%A5terbrukets%2Bhus-12341879.html"
-        },
-        {
-          "label": "Loppisletarn",
-          "url": "https://www.loppisletarn.se/locations/268?locale=sv"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Suckarnas gång",
-      "place": "Lilla Norregatan 17, Simrishamn",
-      "region": "Österlen",
-      "distance": 0,
-      "day": "Lördag",
-      "date": "12 sep",
-      "hours": "07.00–14.00",
-      "size": "Stor",
-      "type": "Utomhus",
-      "score": 4.7,
-      "confidence": "Hög",
-      "sellers": "Stor återkommande sommarloppis",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.5562,
-      "longitude": 14.3506,
-      "note": "IFK Simrishamns välbesökta sommarloppis med antikt, retro, böcker, kläder och kuriosa. Arrangören rekommenderar ett tidigt besök.",
-      "verified": "Verifierad 6 sep",
-      "tags": [
-        "Antikt",
-        "Retro",
-        "Böcker",
-        "Kläder"
-      ],
-      "contact": "070-434 05 17 · info@ifksimrishamn.se",
-      "sources": [
-        {
-          "label": "Kika & Fika",
-          "url": "https://kikaofika.se/evenemang/skane-lan/simrishamn/suckarnas-gang/"
-        },
-        {
-          "label": "IFK Simrishamn",
-          "url": "https://www.ifksimrishamn.se/"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Flyinge Loppis",
-      "place": "Fredricson Arena, Flyinge",
-      "region": "Mellersta Skåne",
-      "distance": 0,
-      "day": "Lördag",
-      "date": "12 sep",
-      "hours": "07.30–15.00",
-      "size": "Stor",
-      "type": "Utomhus",
-      "score": 4.5,
-      "confidence": "Hög",
-      "sellers": "Stor bakluckeloppis med gott om plats",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.7507,
-      "longitude": 13.3694,
-      "note": "Premiärhelg för en ny bakluckeloppis. Gratis inträde och parkering, servering och riktiga toaletter på området.",
-      "verified": "Verifierad 6 sep",
-      "tags": [
-        "Baklucka",
-        "Barnvänligt",
-        "Fika",
-        "Fri entré"
-      ],
-      "contact": "073-313 00 22",
-      "sources": [
-        {
-          "label": "Svenska Loppisar",
-          "url": "https://svenskaloppisar.se/visaloppis.asp?id=31077"
-        },
-        {
-          "label": "Arrangörens webbplats",
-          "url": "https://flyingeloppis.se"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Loppis på Södra Esplanaden",
-      "place": "Södra Esplanaden, Lund",
-      "region": "Sydväst",
-      "distance": 0,
-      "day": "Lördag",
-      "date": "12 sep",
-      "hours": "06.30–15.00",
-      "size": "Stor",
-      "type": "Utomhus",
-      "score": 4.6,
-      "confidence": "Hög",
-      "sellers": "Cirka 90 försäljningsplatser",
-      "x": 0,
-      "y": 0,
-      "latitude": 55.6963,
-      "longitude": 13.1936,
-      "note": "Klassisk lördagsloppis längs allén i centrala Lund. Brett utbud och många privata säljare under sommarsäsongen.",
-      "verified": "Kontrollerad 6 sep",
-      "tags": [
-        "Centralt",
-        "Antikt",
-        "Kläder",
-        "Porslin"
-      ],
-      "contact": "Se Lunds kommuns information",
-      "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        },
-        {
-          "label": "Kika & Fika",
-          "url": "https://kikaofika.se/evenemang/kategori/loppisar/skane-lan/"
-        }
+        {"label": "Loppiskartan", "url": "https://loppiskartan.se/markets/aterbrukets-hus"},
+        {"label": "Cylex", "url": "https://svedala.cylex.se/company/%C3%A5terbrukets%2Bhus-12341879.html"},
+        {"label": "Loppisletarn", "url": "https://www.loppisletarn.se/locations/268?locale=sv"}
       ]
     },
     {
       "id": 4,
-      "name": "Hundloppis på Burlövs Brukshundklubb",
-      "place": "Gamla Segevägen 69, Arlöv",
-      "region": "Sydväst",
+      "name": "Solviksgården",
+      "place": "Ingelstadsvägen 12, Västra Ingelstad · Vellinge kommun",
+      "region": "Vellinge",
       "distance": 0,
-      "day": "Lördag",
-      "date": "12 sep",
-      "hours": "10.00–14.00",
+      "day": "Söndag",
+      "date": "13 sep",
+      "hours": "11.00–16.00",
       "size": "Liten",
-      "type": "Utomhus",
+      "type": "Gårdsloppis",
       "score": 4.2,
-      "confidence": "Hög",
-      "sellers": "Mindre temaloppis med hundprylar",
+      "confidence": "Medel",
+      "sellers": "Mindre lantlig loppis",
       "x": 0,
       "y": 0,
-      "latitude": 55.6319,
-      "longitude": 13.0716,
-      "note": "En mindre specialloppis med hundrelaterade prylar under Hundens vecka. Fika, grill och aktiviteter finns på plats.",
-      "verified": "Verifierad 6 sep",
-      "tags": [
-        "Hundprylar",
-        "Småskaligt",
-        "Fika",
-        "Familj"
-      ],
-      "contact": "Sanna Grewell · 073-061 66 10",
+      "latitude": 55.49357,
+      "longitude": 13.11783,
+      "note": "Retrofynd, återbruk, vintage och fika. Uppges ha sommaröppet varje söndag; kontrollera Instagram före en längre resa.",
+      "verified": "Kontrollerad 13 sep",
+      "tags": ["Småskaligt", "Retro", "Vintage", "Fika"],
+      "contact": "Via loppisens Instagram",
       "sources": [
-        {
-          "label": "Studiefrämjandet",
-          "url": "https://www.studieframjandet.se/skane-lan/gustav-arrangemang/kalenderhandelser/2026/september/hundens-vecka--fartfylld-dag-som-inte-far-missas/"
-        }
+        {"label": "Loppiskartan", "url": "https://loppiskartan.se/markets/solviksgarden"},
+        {"label": "Greater Falsterbo", "url": "https://www.semesterkansla.se/uppleva--utforska/loppis-vintage-och-antikt"}
       ]
     },
     {
       "id": 5,
-      "name": "Bakluckeloppis Lund S",
-      "place": "Knästorps kvarnväg 287-16, Staffanstorp",
-      "region": "Sydväst",
+      "name": "Antikt och Design i Kämpinge",
+      "place": "Solskiftevägen 6, Höllviken · Vellinge kommun",
+      "region": "Vellinge",
       "distance": 0,
-      "day": "Lördag",
-      "date": "12 sep",
-      "hours": "07.30–14.00",
+      "day": "Söndag",
+      "date": "13 sep",
+      "hours": "11.00–16.00",
       "size": "Mellan",
-      "type": "Utomhus",
-      "score": 4.3,
+      "type": "Inomhus",
+      "score": 4.5,
       "confidence": "Hög",
-      "sellers": "Återkommande bakluckeloppis",
+      "sellers": "Antik- och återbruksbutik i ett gammalt stall",
       "x": 0,
       "y": 0,
-      "latitude": 55.6658,
-      "longitude": 13.2058,
-      "note": "Öppet lördagar och söndagar utan krav på förbokning för säljare. Kontrollera arrangörens sida vid dåligt väder.",
-      "verified": "Verifierad 6 sep",
-      "tags": [
-        "Baklucka",
-        "Fri entré",
-        "Återkommande"
-      ],
-      "contact": "Via arrangörens webbplats",
+      "latitude": 55.40265,
+      "longitude": 12.98856,
+      "note": "Gammalt och nytt med allmoge, porslin, glas och möbler. Ordinarie helgöppet bekräftas på den egna webbplatsen.",
+      "verified": "Verifierad 13 sep",
+      "tags": ["Antikt", "Design", "Möbler", "Porslin"],
+      "contact": "0705-33 77 60 · 0708-40 41 80",
       "sources": [
-        {
-          "label": "Arrangörens webbplats",
-          "url": "https://www.bakluckeloppisilund.se/"
-        },
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        }
+        {"label": "Officiell webbplats", "url": "https://www.antiktochdesign.se/"},
+        {"label": "Greater Falsterbo", "url": "https://www.semesterkansla.se/uppleva--utforska/loppis-vintage-och-antikt"}
       ]
     },
     {
       "id": 6,
-      "name": "Allt i Allo Hallen",
-      "place": "Hammenhög, Simrishamns kommun",
-      "region": "Österlen",
+      "name": "Byadag med skörde- och barnloppis",
+      "place": "Gröningen, Stationsvägen, Västra Ingelstad · Vellinge kommun",
+      "region": "Vellinge",
       "distance": 0,
-      "day": "Lördag",
-      "date": "12 sep",
-      "hours": "10.00–16.00",
-      "size": "Stor",
-      "type": "Inomhus",
-      "score": 4.2,
-      "confidence": "Medel",
-      "sellers": "Cirka 1 300 m² loppishall",
+      "day": "Söndag",
+      "date": "13 sep",
+      "hours": "12.00–15.00",
+      "size": "Mellan",
+      "type": "Utomhus",
+      "score": 4.4,
+      "confidence": "Hög",
+      "sellers": "Skörde- och barnloppis inom lokal byadag",
       "x": 0,
       "y": 0,
-      "latitude": 55.5003,
-      "longitude": 14.1491,
-      "note": "Stor inomhushall med blandat utbud. Passar bra även vid regn; kontrollera dagens öppettid före avfärd.",
-      "verified": "Kontrollerad 6 sep",
-      "tags": [
-        "Inomhus",
-        "Möbler",
-        "Porslin",
-        "Kuriosa"
-      ],
-      "contact": "Via källsidan",
+      "latitude": 55.4905339,
+      "longitude": 13.1086039,
+      "note": "Tillfällig loppis med barnprylar och trädgårdsöverskott, musik, barnaktiviteter, fika och korv.",
+      "verified": "Verifierad 13 sep",
+      "tags": ["Barnloppis", "Skördeloppis", "Familj", "Fika"],
+      "contact": "bygruppenvi@gmail.com",
       "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        }
+        {"label": "Bygruppen Västra Ingelstad", "url": "https://xn--vstraingelstad-5hb.se/event/byadag-2/"},
+        {"label": "Greater Falsterbo", "url": "https://www.semesterkansla.se/uppleva--utforska/loppis-vintage-och-antikt"}
       ]
     },
     {
       "id": 7,
-      "name": "Kvarnens Garageloppis",
-      "place": "Smålandsvägen 6, Örkelljunga",
-      "region": "Nordväst",
+      "name": "Lions Club Loppis Trelleborg",
+      "place": "Valldammsgatan 17, Trelleborg · Trelleborgs kommun",
+      "region": "Trelleborg",
       "distance": 0,
       "day": "Lördag",
-      "date": "12 sep",
-      "hours": "10.00–14.00",
-      "size": "Liten",
+      "date": "19 sep",
+      "hours": "09.00–14.00",
+      "size": "Mellan",
       "type": "Inomhus",
-      "score": 4,
+      "score": 4.5,
       "confidence": "Medel",
-      "sellers": "Mindre garageloppis",
+      "sellers": "Föreningsloppis med brett sortiment",
       "x": 0,
       "y": 0,
-      "latitude": 56.2839,
-      "longitude": 13.2768,
-      "note": "Mindre lokal loppis för den som vill leta utanför de stora marknaderna. Öppettiden bygger på det återkommande helgschemat.",
-      "verified": "Kontrollerad 6 sep",
-      "tags": [
-        "Garage",
-        "Småskaligt",
-        "Kuriosa"
-      ],
-      "contact": "Kontakt saknas",
+      "latitude": 55.3761329,
+      "longitude": 13.1538329,
+      "note": "Kläder, möbler, husgeråd och prylar. En katalog anger stängning 13.00, medan två källor anger 14.00.",
+      "verified": "Kontrollerad 13 sep",
+      "tags": ["Förening", "Möbler", "Husgeråd", "Välgörenhet"],
+      "contact": "073-534 84 01",
       "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        }
+        {"label": "Lions Club Trelleborg", "url": "https://e-clubhouse.org/sites/trelleborg/"},
+        {"label": "Waze", "url": "https://www.waze.com/live-map/directions/se/skane-lan/lions-club-loppis?to=place.ChIJp6EQENVzU0YRXUhZPXyIOIc"},
+        {"label": "Hitta Second Hand", "url": "https://hittasecondhand.se/skane-lan/trelleborg/lions-club-loppis"}
       ]
     },
     {
       "id": 8,
-      "name": "Loppisladan Hassle",
-      "place": "Hassle, Stehag",
-      "region": "Mellersta Skåne",
+      "name": "Erikshjälpen Second Hand Trelleborg",
+      "place": "Hedvägen 185, Trelleborg · Trelleborgs kommun",
+      "region": "Trelleborg",
       "distance": 0,
       "day": "Lördag",
-      "date": "12 sep",
-      "hours": "10.00–13.00",
-      "size": "Liten",
+      "date": "19 sep",
+      "hours": "10.00–15.00",
+      "size": "Stor",
       "type": "Inomhus",
-      "score": 4.1,
-      "confidence": "Medel",
-      "sellers": "Mindre loppislada",
+      "score": 4.5,
+      "confidence": "Hög",
+      "sellers": "Över 650 m² secondhand",
       "x": 0,
       "y": 0,
-      "latitude": 55.897,
-      "longitude": 13.39,
-      "note": "Lantlig loppislada med blandat vardagsutbud. En av de mindre loppisarna i helgurvalet.",
-      "verified": "Kontrollerad 6 sep",
-      "tags": [
-        "Lantligt",
-        "Lada",
-        "Småskaligt"
-      ],
-      "contact": "Kontakt saknas",
+      "latitude": 55.3830714,
+      "longitude": 13.1266409,
+      "note": "Stor butik med kläder, möbler, husgeråd, böcker, elektronik, leksaker och sportartiklar. Besökstoalett och parkering finns.",
+      "verified": "Verifierad 13 sep",
+      "tags": ["Stor butik", "Möbler", "Kläder", "Barn"],
+      "contact": "0410-30 17 15 · trelleborg@erikshjalpen.se",
       "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        }
+        {"label": "Erikshjälpen", "url": "https://erikshjalpen.se/butiker/second-hand-trelleborg/"},
+        {"label": "Visit Trelleborg", "url": "https://visittrelleborg.se/vintage/"}
       ]
     },
     {
       "id": 9,
-      "name": "Walentins loppis",
-      "place": "Klippan",
-      "region": "Nordväst",
+      "name": "PMU Second Hand Trelleborg",
+      "place": "Tommarpsvägen 85, Trelleborg · Trelleborgs kommun",
+      "region": "Trelleborg",
       "distance": 0,
       "day": "Lördag",
-      "date": "12 sep",
+      "date": "19 sep",
       "hours": "10.00–15.00",
-      "size": "Liten",
+      "size": "Stor",
       "type": "Inomhus",
-      "score": 4,
-      "confidence": "Medel",
-      "sellers": "Mindre familjedriven loppis",
+      "score": 4.0,
+      "confidence": "Hög",
+      "sellers": "Stor secondhandbutik med café",
       "x": 0,
       "y": 0,
-      "latitude": 56.1355,
-      "longitude": 13.1295,
-      "note": "Familjedriven mindre loppis med varierat utbud. Exakt adress bör kontrolleras i källan före avfärd.",
-      "verified": "Kontrollerad 6 sep",
-      "tags": [
-        "Familjedriven",
-        "Småskaligt",
-        "Blandat"
-      ],
-      "contact": "Se källsidan",
+      "latitude": 55.3862565,
+      "longitude": 13.1295506,
+      "note": "Möbler, kläder, porslin, böcker, belysning, leksaker och teknik. Café och gåvomottagning finns.",
+      "verified": "Verifierad 13 sep",
+      "tags": ["Stor butik", "Möbler", "Kläder", "Café"],
+      "contact": "0410-30 16 70",
       "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        }
+        {"label": "Reuse Kartan", "url": "https://reusekartan.se/begagnat/pmu-second-hand-trelleborg/"},
+        {"label": "Visit Trelleborg", "url": "https://visittrelleborg.se/vintage/"},
+        {"label": "Besökskarta 2026", "url": "https://maps.kartguiden.com/pdf/trelleborg.pdf"}
       ]
     },
     {
       "id": 10,
-      "name": "Flyinge Loppis",
-      "place": "Fredricson Arena, Flyinge",
-      "region": "Mellersta Skåne",
+      "name": "Vintage by K",
+      "place": "Algatan 47, Trelleborg · Trelleborgs kommun",
+      "region": "Trelleborg",
       "distance": 0,
-      "day": "Söndag",
-      "date": "13 sep",
-      "hours": "07.30–15.00",
-      "size": "Stor",
-      "type": "Utomhus",
-      "score": 4.5,
-      "confidence": "Hög",
-      "sellers": "Stor bakluckeloppis med gott om plats",
+      "day": "Lördag",
+      "date": "19 sep",
+      "hours": "10.00–14.00",
+      "size": "Liten",
+      "type": "Inomhus",
+      "score": 4.2,
+      "confidence": "Medel",
+      "sellers": "Mindre kurerad vintagebutik",
       "x": 0,
       "y": 0,
-      "latitude": 55.7507,
-      "longitude": 13.3694,
-      "note": "Premiärhelg för en ny bakluckeloppis. Gratis inträde och parkering, servering och riktiga toaletter på området.",
-      "verified": "Verifierad 6 sep",
-      "tags": [
-        "Baklucka",
-        "Barnvänligt",
-        "Fika",
-        "Fri entré"
-      ],
-      "contact": "073-313 00 22",
+      "latitude": 55.373702,
+      "longitude": 13.1571182,
+      "note": "Noggrant utvalt begagnat mode och accessoarer för kvinnor. Mer kurerad vintage än traditionell loppmarknad.",
+      "verified": "Kontrollerad 13 sep",
+      "tags": ["Vintage", "Kläder", "Kurerat", "Centralt"],
+      "contact": "Via butikens Instagram",
       "sources": [
-        {
-          "label": "Svenska Loppisar",
-          "url": "https://svenskaloppisar.se/visaloppis.asp?id=31077"
-        },
-        {
-          "label": "Eslöv+",
-          "url": "https://plus.eslov.se/event/"
-        }
+        {"label": "Loppiskartan", "url": "https://loppiskartan.se/markets/vintage-by-k"},
+        {"label": "Visit Trelleborg", "url": "https://visittrelleborg.se/vintage/"}
       ]
     },
     {
       "id": 11,
-      "name": "Drottningtorgets loppmarknad",
-      "place": "Drottningtorget, Malmö",
-      "region": "Sydväst",
+      "name": "Svedala Loppis & Secondhand",
+      "place": "Svarvaregatan 8, Svedala · Svedala kommun",
+      "region": "Svedala",
       "distance": 0,
-      "day": "Söndag",
-      "date": "13 sep",
-      "hours": "09.00–15.00",
+      "day": "Lördag",
+      "date": "19 sep",
+      "hours": "11.00–15.00",
       "size": "Stor",
-      "type": "Utomhus",
-      "score": 4.6,
+      "type": "Inomhus",
+      "score": 4.5,
       "confidence": "Hög",
-      "sellers": "Stor kommunal söndagsmarknad",
+      "sellers": "Cirka 1 500 m² loppis och secondhand",
       "x": 0,
       "y": 0,
-      "latitude": 55.6082,
-      "longitude": 13.0074,
-      "note": "Malmös stora söndagsloppmarknad med säljare från hela Skåne. Brett utbud av begagnat, vintage, antikt och kuriosa.",
-      "verified": "Verifierad 6 sep",
-      "tags": [
-        "Centralt",
-        "Vintage",
-        "Antikt",
-        "Kuriosa"
-      ],
-      "contact": "Malmö stad",
+      "latitude": 55.5131052,
+      "longitude": 13.2562114,
+      "note": "Stor inomhusloppis med kläder, böcker, leksaker, tyger, LP-skivor, porslin och inredning.",
+      "verified": "Verifierad 13 sep",
+      "tags": ["Stor hall", "Kläder", "Barn", "Porslin"],
+      "contact": "Via Svedala Loppis på Facebook eller Instagram",
       "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        },
-        {
-          "label": "Malmö stad",
-          "url": "https://malmo.se/Uppleva-och-gora/Fritidsaktiviteter/Loppmarknader.html"
-        }
+        {"label": "Loppos", "url": "https://loppos.com/sv/sverige/skane/svedala/svedala-loppis"},
+        {"label": "Publika inlägg", "url": "https://www.findglocal.com/SE/Svedala/257103634702413/Svedala-Loppis"}
       ]
     },
     {
       "id": 12,
-      "name": "Bakluckeloppis Helsingborg",
-      "place": "Östra Sandgatan 7, Helsingborg",
-      "region": "Nordväst",
+      "name": "Återbrukets hus",
+      "place": "Verkstadsgatan 4, Svedala · Svedala kommun",
+      "region": "Svedala",
       "distance": 0,
-      "day": "Söndag",
-      "date": "13 sep",
-      "hours": "08.30–15.00",
+      "day": "Lördag",
+      "date": "19 sep",
+      "hours": "11.00–15.00",
       "size": "Stor",
-      "type": "Utomhus",
-      "score": 4.4,
-      "confidence": "Hög",
-      "sellers": "Stor bakluckeloppis utan förbokning",
+      "type": "Inomhus",
+      "score": 4.3,
+      "confidence": "Medel",
+      "sellers": "Cirka 500 m², varav cirka 250 m² möbelhall",
       "x": 0,
       "y": 0,
-      "latitude": 56.0557,
-      "longitude": 12.7214,
-      "note": "Gratis bakluckeloppis där säljare kan komma utan förbokning. Brett privat utbud och tydligt bekräftade tider.",
-      "verified": "Verifierad 6 sep",
-      "tags": [
-        "Baklucka",
-        "Fri entré",
-        "Vintage",
-        "Familj"
-      ],
-      "contact": "Via arrangörens Facebook-sida",
+      "latitude": 55.516033,
+      "longitude": 13.240554,
+      "note": "Brett återbruk med stor textilavdelning och möbelhall. Källorna är eniga om lördagsöppet 11–15.",
+      "verified": "Kontrollerad 13 sep",
+      "tags": ["Möbler", "Textil", "Återbruk", "Inomhus"],
+      "contact": "073-650 41 91",
       "sources": [
-        {
-          "label": "Somo",
-          "url": "https://somo.social/sv/e/bakluckeloppis-913-1"
-        }
+        {"label": "Loppiskartan", "url": "https://loppiskartan.se/markets/aterbrukets-hus"},
+        {"label": "Cylex", "url": "https://svedala.cylex.se/company/%C3%A5terbrukets%2Bhus-12341879.html"}
       ]
     },
     {
       "id": 13,
-      "name": "Spritans Bakluckeloppis",
-      "place": "Spritfabriken, Ödåkra",
-      "region": "Nordväst",
+      "name": "Antikt och Design i Kämpinge",
+      "place": "Solskiftevägen 6, Höllviken · Vellinge kommun",
+      "region": "Vellinge",
       "distance": 0,
-      "day": "Söndag",
-      "date": "13 sep",
-      "hours": "11.00–14.00",
+      "day": "Lördag",
+      "date": "19 sep",
+      "hours": "11.00–16.00",
       "size": "Mellan",
-      "type": "Utomhus",
-      "score": 4.3,
-      "confidence": "Medel",
-      "sellers": "Återkommande bakluckeloppis",
+      "type": "Inomhus",
+      "score": 4.5,
+      "confidence": "Hög",
+      "sellers": "Antik- och återbruksbutik i ett gammalt stall",
       "x": 0,
       "y": 0,
-      "latitude": 56.1046,
-      "longitude": 12.7518,
-      "note": "Bakluckeloppis vid den gamla spritfabriken. Drop-in för säljare kan finnas i mån av plats.",
-      "verified": "Verifierad 6 sep",
-      "tags": [
-        "Baklucka",
-        "Återkommande",
-        "Fynd"
-      ],
-      "contact": "Via arrangörens webbplats",
+      "latitude": 55.40265,
+      "longitude": 12.98856,
+      "note": "Gammalt och nytt med allmoge, porslin, glas och möbler. Ordinarie helgöppet bekräftas på den egna webbplatsen.",
+      "verified": "Verifierad 13 sep",
+      "tags": ["Antikt", "Design", "Möbler", "Porslin"],
+      "contact": "0705-33 77 60 · 0708-40 41 80",
       "sources": [
-        {
-          "label": "Bakluckeloppis i Skåne",
-          "url": "https://bakluckeloppisiskane.se/evenemang/"
-        }
+        {"label": "Officiell webbplats", "url": "https://www.antiktochdesign.se/"},
+        {"label": "Greater Falsterbo", "url": "https://www.semesterkansla.se/uppleva--utforska/loppis-vintage-och-antikt"}
       ]
     },
     {
       "id": 14,
-      "name": "Bakluckeloppis Lund S",
-      "place": "Knästorps kvarnväg 287-16, Staffanstorp",
-      "region": "Sydväst",
+      "name": "Brönnestads kuriosa och gårdsloppis",
+      "place": "Brönnestadsvägen 258, Klagstorp · Trelleborgs kommun",
+      "region": "Trelleborg",
       "distance": 0,
       "day": "Söndag",
-      "date": "13 sep",
-      "hours": "07.30–14.00",
-      "size": "Mellan",
-      "type": "Utomhus",
-      "score": 4.3,
-      "confidence": "Hög",
-      "sellers": "Återkommande bakluckeloppis",
+      "date": "20 sep",
+      "hours": "11.00–15.00",
+      "size": "Liten",
+      "type": "Gårdsloppis",
+      "score": 4.1,
+      "confidence": "Medel",
+      "sellers": "Mindre återkommande gårdsloppis",
       "x": 0,
       "y": 0,
-      "latitude": 55.6658,
-      "longitude": 13.2058,
-      "note": "Öppet lördagar och söndagar utan krav på förbokning för säljare. Kontrollera arrangörens sida vid dåligt väder.",
-      "verified": "Verifierad 6 sep",
-      "tags": [
-        "Baklucka",
-        "Fri entré",
-        "Återkommande"
-      ],
-      "contact": "Via arrangörens webbplats",
-      "sources": [
-        {
-          "label": "Arrangörens webbplats",
-          "url": "https://www.bakluckeloppisilund.se/"
-        },
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        }
-      ]
+      "latitude": 55.41522,
+      "longitude": 13.36685,
+      "note": "Kuriosa, vintage, kläder, böcker samt häst- och hundsaker. Kontrollera före avfärd.",
+      "verified": "Kontrollerad 13 sep",
+      "tags": ["Småskaligt", "Vintage", "Kuriosa", "Gård"],
+      "contact": "070-950 81 30",
+      "sources": [{"label": "Loppiskartan", "url": "https://loppiskartan.se/markets/bronnestads-kuriosa-och-gardsloppis"}]
     },
     {
       "id": 15,
-      "name": "Loppiskällaren Finja",
-      "place": "Saxabäcksvägen 1, Finja",
-      "region": "Nordost",
+      "name": "Svedala Loppis & Secondhand",
+      "place": "Svarvaregatan 8, Svedala · Svedala kommun",
+      "region": "Svedala",
       "distance": 0,
       "day": "Söndag",
-      "date": "13 sep",
-      "hours": "13.00–16.00",
-      "size": "Liten",
+      "date": "20 sep",
+      "hours": "11.00–15.00",
+      "size": "Stor",
       "type": "Inomhus",
-      "score": 4.1,
-      "confidence": "Medel",
-      "sellers": "Mindre källarloppis",
+      "score": 4.5,
+      "confidence": "Hög",
+      "sellers": "Cirka 1 500 m² loppis och secondhand",
       "x": 0,
       "y": 0,
-      "latitude": 56.159,
-      "longitude": 13.69,
-      "note": "Mindre lokal källarloppis med återkommande söndagsöppet. Kontrollera källan samma dag för eventuella ändringar.",
-      "verified": "Kontrollerad 6 sep",
-      "tags": [
-        "Småskaligt",
-        "Inomhus",
-        "Lokalt"
-      ],
-      "contact": "Kontakt saknas",
+      "latitude": 55.5131052,
+      "longitude": 13.2562114,
+      "note": "Stor inomhusloppis med kläder, böcker, leksaker, tyger, LP-skivor, porslin och inredning.",
+      "verified": "Verifierad 13 sep",
+      "tags": ["Stor hall", "Kläder", "Barn", "Porslin"],
+      "contact": "Via Svedala Loppis på Facebook eller Instagram",
       "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        }
+        {"label": "Loppos", "url": "https://loppos.com/sv/sverige/skane/svedala/svedala-loppis"},
+        {"label": "Publika inlägg", "url": "https://www.findglocal.com/SE/Svedala/257103634702413/Svedala-Loppis"}
       ]
     },
     {
       "id": 16,
-      "name": "Skattgömman",
-      "place": "Bankvägen 16, Strövelstorp",
-      "region": "Nordväst",
+      "name": "Återbrukets hus",
+      "place": "Verkstadsgatan 4, Svedala · Svedala kommun",
+      "region": "Svedala",
       "distance": 0,
       "day": "Söndag",
-      "date": "13 sep",
-      "hours": "13.00–16.00",
-      "size": "Liten",
+      "date": "20 sep",
+      "hours": "11.00–15.00",
+      "size": "Stor",
       "type": "Inomhus",
-      "score": 4.1,
+      "score": 4.3,
       "confidence": "Medel",
-      "sellers": "Mindre lokal loppis",
+      "sellers": "Cirka 500 m², varav cirka 250 m² möbelhall",
       "x": 0,
       "y": 0,
-      "latitude": 56.168,
-      "longitude": 12.84,
-      "note": "Mindre loppis med blandade prylar. Öppettiden följer det publicerade söndagsschemat men bör kontrolleras före resa.",
-      "verified": "Kontrollerad 6 sep",
-      "tags": [
-        "Småskaligt",
-        "Inomhus",
-        "Blandat"
-      ],
-      "contact": "Kontakt saknas",
+      "latitude": 55.516033,
+      "longitude": 13.240554,
+      "note": "Två källor anger 11–15 medan en anger 12–16; ring gärna före avfärd.",
+      "verified": "Kontrollerad 13 sep",
+      "tags": ["Möbler", "Textil", "Återbruk", "Inomhus"],
+      "contact": "073-650 41 91",
       "sources": [
-        {
-          "label": "Loppiskartan",
-          "url": "https://loppiskartan.se/loppis-lan-skane"
-        }
+        {"label": "Loppiskartan", "url": "https://loppiskartan.se/markets/aterbrukets-hus"},
+        {"label": "Cylex", "url": "https://svedala.cylex.se/company/%C3%A5terbrukets%2Bhus-12341879.html"},
+        {"label": "Loppisletarn", "url": "https://www.loppisletarn.se/locations/268?locale=sv"}
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Solviksgården",
+      "place": "Ingelstadsvägen 12, Västra Ingelstad · Vellinge kommun",
+      "region": "Vellinge",
+      "distance": 0,
+      "day": "Söndag",
+      "date": "20 sep",
+      "hours": "11.00–16.00",
+      "size": "Liten",
+      "type": "Gårdsloppis",
+      "score": 4.2,
+      "confidence": "Medel",
+      "sellers": "Mindre lantlig loppis",
+      "x": 0,
+      "y": 0,
+      "latitude": 55.49357,
+      "longitude": 13.11783,
+      "note": "Retrofynd, återbruk, vintage och fika. Kontrollera Instagram före en längre resa.",
+      "verified": "Kontrollerad 13 sep",
+      "tags": ["Småskaligt", "Retro", "Vintage", "Fika"],
+      "contact": "Via loppisens Instagram",
+      "sources": [
+        {"label": "Loppiskartan", "url": "https://loppiskartan.se/markets/solviksgarden"},
+        {"label": "Greater Falsterbo", "url": "https://www.semesterkansla.se/uppleva--utforska/loppis-vintage-och-antikt"}
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Antikt och Design i Kämpinge",
+      "place": "Solskiftevägen 6, Höllviken · Vellinge kommun",
+      "region": "Vellinge",
+      "distance": 0,
+      "day": "Söndag",
+      "date": "20 sep",
+      "hours": "11.00–16.00",
+      "size": "Mellan",
+      "type": "Inomhus",
+      "score": 4.5,
+      "confidence": "Hög",
+      "sellers": "Antik- och återbruksbutik i ett gammalt stall",
+      "x": 0,
+      "y": 0,
+      "latitude": 55.40265,
+      "longitude": 12.98856,
+      "note": "Gammalt och nytt med allmoge, porslin, glas och möbler. Ordinarie helgöppet bekräftas på den egna webbplatsen.",
+      "verified": "Verifierad 13 sep",
+      "tags": ["Antikt", "Design", "Möbler", "Porslin"],
+      "contact": "0705-33 77 60 · 0708-40 41 80",
+      "sources": [
+        {"label": "Officiell webbplats", "url": "https://www.antiktochdesign.se/"},
+        {"label": "Greater Falsterbo", "url": "https://www.semesterkansla.se/uppleva--utforska/loppis-vintage-och-antikt"}
       ]
     }
   ]
